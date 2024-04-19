@@ -1,0 +1,4 @@
+
+[submodule "src/ThirdP/rotors_simulator"]
+	path = src/ThirdP/rotors_simulator
+	url = git@github.com:jonlee48/rotors_simulator.git
