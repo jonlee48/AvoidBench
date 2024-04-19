@@ -5,8 +5,10 @@ namespace avoidlib {
 // constructor
 UnityBridge::UnityBridge()
   : client_address_("tcp://*"),
-    pub_port_("10255"),
-    sub_port_("10256"),
+    pub_port_("10253"),
+    sub_port_("10254"),
+    // pub_port_("10255"),
+    // sub_port_("10256"),
     num_frames_(0),
     last_downloaded_utime_(0),
     last_download_debug_utime_(0),
