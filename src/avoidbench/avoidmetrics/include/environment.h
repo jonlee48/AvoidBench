@@ -11,9 +11,9 @@
 #include <thread>
 #include <vector>
 
-#include <Open3D/Geometry/KDTreeFlann.h>
-#include <Open3D/Geometry/PointCloud.h>
-#include <Open3D/IO/ClassIO/PointCloudIO.h>
+#include <open3d/geometry/KDTreeFlann.h>
+#include <open3d/geometry/PointCloud.h>
+#include <open3d/io/PointCloudIO.h>
 
 #include <yaml-cpp/yaml.h>
 
